@@ -5,6 +5,8 @@ $nama = "M Rivaldi Hafizd Fathurohman";
 $jenis_kelamin = "Laki-laki";
 $umur = 22;
 $alamat = "Perum PPI Blok H.6";
+$berat = "65 kg"
+$tinggi = "165 cm"
 $email = "rivaldihafizd02@gmail.com";
 
 ?>
@@ -38,6 +40,16 @@ $email = "rivaldihafizd02@gmail.com";
             <td>Alamat</td>
             <th>:</th>
             <td><?php echo $alamat; ?></td>
+        </tr>
+         <tr>
+            <td>Berat</td>
+            <th>:</th>
+            <td><?php echo $berat; ?></td>
+        </tr>
+        <tr>
+            <td>tinggi</td>
+            <th>:</th>
+            <td><?php echo $tinggi; ?></td>
         </tr>
         <tr>
             <td>Email</td>
