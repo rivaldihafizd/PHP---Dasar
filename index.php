@@ -35,7 +35,7 @@ $email = "rivaldihafizd02@gmail.com";
             <td><?php echo $umur; ?></td>
         </tr>
         <tr>
-            <td>Alanat</td>
+            <td>Alamat</td>
             <th>:</th>
             <td><?php echo $alamat; ?></td>
         </tr>
